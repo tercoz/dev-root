@@ -1,0 +1,9 @@
+[submodule "launcher"]
+	path = launcher
+	url = https://github.com/tercoz/launcher.git
+[submodule "cabinet"]
+	path = cabinet
+	url = https://github.com/tercoz/cabinet.git
+[submodule "openid-provider"]
+	path = openid-provider
+	url = https://github.com/tercoz/openid-provider.git
